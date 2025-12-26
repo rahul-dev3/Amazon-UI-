@@ -1,4 +1,4 @@
-🛒 Amazon UI Clone – React Project
+🛒 Amazon UI Clone – React Project LIVE DEMO https://github.com/rahul-dev3/Amazon-UI-.git
 
 📌 Project Overview
 
@@ -110,7 +110,7 @@ To run the project locally:
 
 Clone the repository
 
-https://github.com/shashwat232005/capstone-project-amazone-UI-
+https://github.com/rahul-dev3/Amazon-UI-.git
 
 Navigate to the project directory
 
