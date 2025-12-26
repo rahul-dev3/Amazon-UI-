@@ -1,6 +1,4 @@
 🛒 Amazon UI Clone – React Project
-**LIVE DEMO**
-https://shashwat232005.github.io/capstone-project-amazone-UI-/
 
 📌 Project Overview
 
@@ -11,9 +9,9 @@ The application replicates the look and feel of Amazon’s homepage, including n
 
 👨‍🎓 Student Details
 
-Name: Shashwat Thakur
+Name: Rahul Chauhan
 
-Roll Number: 23BCS11110
+Roll Number: 23BCS12035
 
 Course: B.Tech
 
